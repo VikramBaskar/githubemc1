@@ -1,1 +1,2 @@
 This is new file to push into cloud:
+This is practice.txt file is pull to cloud
